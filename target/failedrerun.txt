@@ -1,0 +1,3 @@
+file:src/test/resources/Parallel/LoginPage.feature:5:11:16
+file:src/test/resources/Parallel/ContactUs.feature:12:13:14:15:16:17
+file:src/test/resources/Parallel/AccountPage.feature:8:14

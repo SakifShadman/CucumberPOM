@@ -1,0 +1,7 @@
+Parallel\ContactUsSteps.class
+Parallel\ParallelRun.class
+Parallel\LoginPageSteps.class
+Parallel\AccountPageSteps.class
+TestRunner\TestRunner.class
+Parallel\ApplicationHooks.class
+Parallel\FailedRun.class
